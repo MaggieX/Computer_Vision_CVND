@@ -1,7 +1,7 @@
 # Computer Vision Projects in Computer Vision Nanodegree
 [![Udacity Computer Vision Nanodegree](https://tugan0329.bitbucket.io/imgs/github/cvnd.svg?style=flat-square)](https://www.udacity.com/course/computer-vision-nanodegree--nd891)
 
-Three projects on facial recognition, image captioning, landmark &amp; robot tracking (SLAM)
+Three projects on facial recognition, image captioning, landmark &amp; robot tracking (SLAM).
 
 ## Overview
 This repository contains project files for [Udacity's Computer Vision Nanodegree Program](https://www.udacity.com/course/computer-vision-nanodegree--nd891).
