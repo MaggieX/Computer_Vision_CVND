@@ -1,4 +1,4 @@
-# Computer Vision Projects in Udacity Computer Vision Nanodegree
+# Computer Vision Projects in Computer Vision Nanodegree
 [![Udacity Computer Vision Nanodegree](https://tugan0329.bitbucket.io/imgs/github/cvnd.svg?style=flat-square)](https://www.udacity.com/course/computer-vision-nanodegree--nd891)
 
 Three projects on facial recognition, image captioning, landmark &amp; robot tracking (SLAM)
@@ -10,7 +10,6 @@ This repository contains project files for [Udacity's Computer Vision Nanodegree
 ### Introduction to Computer Vision:
 - Project 1. [Facial Keypoint Detection](./CV_Proj1_facial_detection)<br/>
 The Udacity repository for this project: [P1_Facial_Keypoints](https://github.com/udacity/P1_Facial_Keypoints)
-
 
 ### Advanced Computer Vision & Deep Learning
 - Project 2. [Image captioning](./CV_Proj2_image_captioning)<br/>
