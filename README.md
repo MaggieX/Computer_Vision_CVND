@@ -19,4 +19,5 @@ The Udacity repository for this project: [CVND---Image-Captioning-Project](https
 - Project 3. [Landmark Detection & Tracking (SLAM)](./CV_Proj3_SLAM)<br/>
 The Udacity repository for this project: [Project_Landmark Detection](https://github.com/udacity/CVND_Localization_Exercises/tree/master/Project_Landmark%20Detection)
 
+## CV Exercises
 The Udacity repository for the exercises: [CVND_Localization_Exercises](https://github.com/udacity/CVND_Localization_Exercises) 
