@@ -3,7 +3,7 @@
 In this project, a CNN-RNN model is trained to predict captions for a given image.
 
 ## Project Overview
-(/./images/encoder-decoder.png)
+(./images/encoder-decoder.png)
 
 ### Contents
 A series of Jupyter notebooks that are completed in sequential order:
