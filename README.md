@@ -8,10 +8,16 @@ This repository contains project files for [Udacity's Computer Vision Nanodegree
 
 ## Program and Protect Content
 ### Introduction to Computer Vision:
-- Project 1. [Facial Keypoint Detection](./CV_Proj1_facial_detection)
+- Project 1. [Facial Keypoint Detection](./CV_Proj1_facial_detection)<br/>
+The Udacity repository for this project: [P1_Facial_Keypoints](https://github.com/udacity/P1_Facial_Keypoints)
+
 
 ### Advanced Computer Vision & Deep Learning
-- Project 2. [Image captioning](./CV_Proj2_image_captioning)
+- Project 2. [Image captioning](./CV_Proj2_image_captioning)<br/>
+The Udacity repository for this project: [CVND---Image-Captioning-Project](https://github.com/udacity/CVND---Image-Captioning-Project)
 
 ### Object Tracking and Localization
-- Project 3. [Landmark Detection & Tracking (SLAM)](./CV_Proj3_SLAM)
+- Project 3. [Landmark Detection & Tracking (SLAM)](./CV_Proj3_SLAM)<br/>
+The Udacity repository for this project: [Project_Landmark Detection](https://github.com/udacity/CVND_Localization_Exercises/tree/master/Project_Landmark%20Detection)
+
+The Udacity repository for the exercises: [CVND_Localization_Exercises](https://github.com/udacity/CVND_Localization_Exercises) 
