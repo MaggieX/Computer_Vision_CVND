@@ -4,9 +4,12 @@
 Three projects on facial recognition, image captioning, landmark &amp; robot tracking (SLAM)
 
 ## Overview
-This repository contains project files for [Udacity's Computer Vision Nanodegree Program](https://www.udacity.com/course/computer-vision-nanodegree--nd891)
+This repository contains project files for [Udacity's Computer Vision Nanodegree Program](https://www.udacity.com/course/computer-vision-nanodegree--nd891).
 
-## Content
-1. [Facial Keypoint Detection](./CV_Proj1_facial_detection)
-2. [Image captioning] (./CV_Proj2_image_captioning)
-3. [Landmark Detection & Tracking (SLAM)] (./CV_Proj3_SLAM)
+## Program and Protect Content
+Introduction to Computer Vision:
+- Project 1. [Facial Keypoint Detection](./CV_Proj1_facial_detection)
+Advanced Computer Vision & Deep Learning
+- Project 2. [Image captioning] (./CV_Proj2_image_captioning)
+Object Tracking and Localization
+- Project 3. [Landmark Detection & Tracking (SLAM)] (./CV_Proj3_SLAM)
