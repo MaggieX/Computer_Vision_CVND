@@ -9,6 +9,9 @@ This repository contains project files for [Udacity's Computer Vision Nanodegree
 ## Program and Protect Content
 ### Introduction to Computer Vision:
 - Project 1. [Facial Keypoint Detection](./CV_Proj1_facial_detection)<br/>
+- <p align="center">
+  <img width="1138" height="547" src="https://user-images.githubusercontent.com/33187812/66273775-64b75700-e877-11e9-8aa0-2359dd9641ab.png">
+</p>
 The Udacity repository for this project: [P1_Facial_Keypoints](https://github.com/udacity/P1_Facial_Keypoints)
 
 ### Advanced Computer Vision & Deep Learning
