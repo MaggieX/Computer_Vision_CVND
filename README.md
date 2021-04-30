@@ -22,6 +22,7 @@ The Udacity repository for this project: [CVND---Image-Captioning-Project](https
 ### Object Tracking and Localization
 - Project 3. [Landmark Detection & Tracking (SLAM)](./CV_Proj3_SLAM)<br/>
 The Udacity repository for this project: [Project_Landmark Detection](https://github.com/udacity/CVND_Localization_Exercises/tree/master/Project_Landmark%20Detection)
+![Robot](https://github.com/MaggieX/Computer_Vision_Udacity_Nanodegree/blob/4bd7b467539f1de9c663d91d40443f03d6c894a9/CV_Proj3_SLAM/images/robot_world.png)
 
 ### CV Exercises
 The Udacity repository for the exercises: [CVND_Localization_Exercises](https://github.com/udacity/CVND_Localization_Exercises) 
