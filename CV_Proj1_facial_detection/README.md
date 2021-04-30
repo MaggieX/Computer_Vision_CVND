@@ -16,3 +16,7 @@ The project will be broken up into a few main parts in four Python notebooks, on
 #### Notebook 3 : Facial Keypoint Detection Using Haar Cascades and your Trained CNN
 
 #### Notebook 4 : Fun Filters and Keypoint Uses
+
+<p align="center">
+  <img width="1138" height="547" src="https://user-images.githubusercontent.com/33187812/66273775-64b75700-e877-11e9-8aa0-2359dd9641ab.png">
+</p>
