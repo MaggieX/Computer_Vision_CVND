@@ -16,6 +16,7 @@ The Udacity repository for this project: [P1_Facial_Keypoints](https://github.co
 
 ### Advanced Computer Vision & Deep Learning
 - Project 2. [Image captioning](./CV_Proj2_image_captioning)<br/>
+![Encoder-Decoder](https://github.com/MaggieX/Computer_Vision_Udacity_Nanodegree/blob/868f401fcc8d59d3ea6d14b14c75890daf073e79/CV_Proj2_image_captioning/images/encoder-decoder.png)
 The Udacity repository for this project: [CVND---Image-Captioning-Project](https://github.com/udacity/CVND---Image-Captioning-Project)
 
 ### Object Tracking and Localization
