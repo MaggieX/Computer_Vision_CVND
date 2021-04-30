@@ -23,4 +23,4 @@ The Udacity repository for this project: [Project_Landmark Detection](https://gi
 The Udacity repository for the exercises: [CVND_Localization_Exercises](https://github.com/udacity/CVND_Localization_Exercises) 
 
 ### My certificate
-https://github.com/MaggieX/Computer_Vision_CVND/blob/5e0bdd73bada54d66c621cd9dd595edcc519a83d/Udacity_NanoDegree_Certificate.pdf
+![CV certificate](https://github.com/MaggieX/Computer_Vision_CVND/blob/5e0bdd73bada54d66c621cd9dd595edcc519a83d/Udacity_NanoDegree_Certificate.pdf)
